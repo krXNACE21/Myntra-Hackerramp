@@ -17,6 +17,9 @@ The dataset for this model can be found [here](https://www.kaggle.com/competitio
 
 #### Model Description
 The fashion captioning model is based on a large input dataset. The model features are extracted through a Convolutional Neural Network (CNN), then passed through a transformer encoder-decoder and trained using a large-scale fashion image and description dataset. This model is designed to generate automatic captions for given input images.
+#### Result
+![Fashion_captioning result](https://github.com/user-attachments/assets/3aa7ba91-0bff-4e65-854f-9af0caecb330)
+
 
 ### 2. Price Prediction Model
 
