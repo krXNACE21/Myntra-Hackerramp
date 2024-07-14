@@ -5,7 +5,7 @@
 
 This is our proposed idea for a thrift store for the Myntra HackerRamp We for She competition. Thrift shopping has emerged as a source of sustainable fashion. Along with the reduced environmental impact of buying second-hand clothing, it also caters to the desire of owning luxury clothing at a fraction of the cost of new clothing.
 # Our Proposed Solution 
-![image](https://github.com/user-attachments/assets/80daa3c7-1a59-4173-855d-ba682522e92c)
+<img src="https://github.com/user-attachments/assets/80daa3c7-1a59-4173-855d-ba682522e92c" alt="Thrift Store for Myntra" width="400"/>
 
 
 ## Proposed Models
