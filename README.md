@@ -5,7 +5,7 @@
 
 This is our proposed idea for a thrift store for the Myntra HackerRamp We for She competition. Thrift shopping has emerged as a source of sustainable fashion. Along with the reduced environmental impact of buying second-hand clothing, it also caters to the desire of owning luxury clothing at a fraction of the cost of new clothing.
 # Our Proposed Solution 
-<img src="https://github.com/user-attachments/assets/80daa3c7-1a59-4173-855d-ba682522e92c" alt="Thrift Store for Myntra" width="400"/>
+<img src="https://github.com/user-attachments/assets/80daa3c7-1a59-4173-855d-ba682522e92c" alt="Thrift Store for Myntra" width="800"/>
 
 
 ## Proposed Models
@@ -18,7 +18,8 @@ The dataset for this model can be found [here](https://www.kaggle.com/competitio
 #### Model Description
 The fashion captioning model is based on a large input dataset. The model features are extracted through a Convolutional Neural Network (CNN), then passed through a transformer encoder-decoder and trained using a large-scale fashion image and description dataset. This model is designed to generate automatic captions for given input images.
 #### Result
-![Fashion_captioning result](https://github.com/user-attachments/assets/3aa7ba91-0bff-4e65-854f-9af0caecb330)
+<img src="https://github.com/user-attachments/assets/320df869-8ab2-413c-ac44-2c6c89275597" alt="Thrift Store for Myntra" width="800"/>
+
 
 
 ### 2. Price Prediction Model
