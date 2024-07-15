@@ -50,4 +50,4 @@ The input features for the price suggestion model are mapped to the user queries
 
 The expected price provided by the user will be double-checked with the price predicted by the model. If the expected price falls within a safe range, it will be approved.
 
-
+Link to our working myntra thrift store front-end prototype is attatched here : https://www.figma.com/proto/HrqIelSvf6nGqQcdMIBDjz/myntra-hackerramp?node-id=29-626&t=ryvEz5yOSJbnc48s-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=29%3A626 
